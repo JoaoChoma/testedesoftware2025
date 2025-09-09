@@ -5,4 +5,9 @@
 
 - https://forms.gle/4gBMBGDewHjK11Xx9
 
-Este formulário destina-se a informar os acessos ao(s) repositório(s) do GitHub onde estão as atividades desenvolvidas.
+Neste formulário vocês irão informar os link(s) de acesso ao(s) repositório(s) do Github onde vocês publicaram as atividades desenvolvidas.
+
+## Quais atividades?
+
+- Artefatos de teste
+- Teste funcional
