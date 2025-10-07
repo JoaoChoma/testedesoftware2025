@@ -11,3 +11,4 @@ Neste formulário vocês irão informar os link(s) de acesso ao(s) repositório(
 
 - Artefatos de teste
 - Teste funcional
+- Teste estrutural - cobertura de critérios
