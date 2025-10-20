@@ -14,15 +14,16 @@ Para informar os links de acesso aos repositórios do GitHub onde as atividades 
 
 As atividades contempladas neste projeto incluem:
 
-- Artefatos de teste  
-- Teste funcional  
+- ~~Artefatos de teste - 1 bimestre~~
+- ~~Teste funcional - 1 bimestre~~
 - Teste estrutural – cobertura de critérios (Semana 11)  
   - Repositório: [SEMANA11 - Teste Estrutural](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA11-TESTE%20ESTRUTURAL)  
-- TDD – Semana 12  
+- TDD – Semana 12 
+    - Repositório: [SEMANA12]() 
 
 ## 📂 Estrutura do Repositório
 
 A organização das pastas segue o padrão abaixo para facilitar o acesso e a navegação:
 
 - `/SEMANA0X/` – Slides e códigos trabalhados em aula;  
-- `/revisao/` – Conteúdos de revisão para provas;
+- `/revisao/` – Conteúdos de revisão para provas;</file>
