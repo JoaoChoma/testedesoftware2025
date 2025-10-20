@@ -1,14 +1,28 @@
-# testedesoftware2025
+# Projeto, Implementação e Teste de Software – 2025
 
+## 💡 Objetivo
 
-# Links
+Este repositório reúne o projeto da disciplina **Projeto, Implementação e Teste de Software – 2025**, onde serão organizados e disponibilizados os artefatos, códigos e atividades desenvolvidas ao longo do curso.
 
-- https://forms.gle/4gBMBGDewHjK11Xx9
+## 🔗 Formulário de Entrega
 
-Neste formulário vocês irão informar os link(s) de acesso ao(s) repositório(s) do Github onde vocês publicaram as atividades desenvolvidas.
+Para informar os links de acesso aos repositórios do GitHub onde as atividades foram publicadas, utilize o formulário oficial da disciplina:
 
-## Quais atividades?
+[Formulário de entrega das atividades](https://forms.gle/4gBMBGDewHjK11Xx9)
 
-- Artefatos de teste
-- Teste funcional
-- Teste estrutural - cobertura de critérios - SEMANA 11
+## 📁 Atividades
+
+As atividades contempladas neste projeto incluem:
+
+- Artefatos de teste  
+- Teste funcional  
+- Teste estrutural – cobertura de critérios (Semana 11)  
+  - Repositório: [SEMANA11 - Teste Estrutural](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA11-TESTE%20ESTRUTURAL)  
+- TDD – Semana 12  
+
+## 📂 Estrutura do Repositório
+
+A organização das pastas segue o padrão abaixo para facilitar o acesso e a navegação:
+
+- `/SEMANA0X/` – Slides e códigos trabalhados em aula;  
+- `/revisao/` – Conteúdos de revisão para provas;
