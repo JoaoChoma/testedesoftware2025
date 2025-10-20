@@ -19,7 +19,7 @@ As atividades contempladas neste projeto incluem:
 - Teste estrutural – cobertura de critérios (Semana 11)  
   - Repositório: [SEMANA11 - Teste Estrutural](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA11-TESTE%20ESTRUTURAL)  
 - TDD – Semana 12 
-    - Repositório: [SEMANA12]() 
+    - Repositório: [SEMANA12](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA12) 
 
 ## 📂 Estrutura do Repositório
 
