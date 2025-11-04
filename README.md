@@ -22,6 +22,8 @@ As atividades contempladas neste projeto incluem:
     - Repositório: [SEMANA12](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA12) 
 - Integração + Spring Boot = Aumentar a cobertura atual, o quanto conseguir. 
   - Repositório: [SEMANA14-SPRING](https://github.com/JoaoChoma/testedesoftware2025/tree/main/SEMANA14-SPRING/demo)
+- Teste de usuário final - tabela a avaliação de uma tarefa no Mercado livre
+  - Repositório: [SEMANA15](https://github.com/JoaoChoma/testedesoftware2025/blob/main/SEMANA15/TESTE%20USUARIO%20FINAL.pdf)
 
 ## 📂 Estrutura do Repositório
 
