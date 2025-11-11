@@ -154,7 +154,7 @@ curl -s -X DELETE localhost:8474/proxies/web/toxics/lag
 
 ---
 
-## 10) Entendendo as métricas que você vai “apontar no quadro”
+## 8) Entendendo as métricas que você vai “apontar no quadro”
 - **RPS (Requests per Second)**: quantas requisições/seg o sistema realmente entregou.
 - **p95 (latência 95º percentil)**: 95% das reqs terminaram abaixo desse tempo (mede a **cauda**).
 - **Erros**: percentual de requisições com falha (5xx/timeout e também 429 quando o rate limit está ativo).
