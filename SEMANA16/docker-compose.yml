@@ -1,0 +1,20 @@
+services:
+  app:
+    image: nginx:alpine
+    container_name: ddos_app
+    ports: ["8081:80"]  # acesso direto (baseline)
+
+  toxiproxy:
+    image: ghcr.io/shopify/toxiproxy
+    container_name: ddos_toxiproxy
+    ports: ["8474:8474","8080:8080"] # 8474 = API; 8080 = proxy
+    depends_on: [app]
+
+  k6:
+    image: grafana/k6:latest
+    # Se Apple Silicon, descomente a linha abaixo:
+    # platform: linux/arm64
+    container_name: ddos_k6
+    volumes: ["./k6:/scripts"]
+    working_dir: /scripts
+    depends_on: [toxiproxy]
